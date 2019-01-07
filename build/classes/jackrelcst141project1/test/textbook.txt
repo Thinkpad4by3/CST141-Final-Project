@@ -1,0 +1,5 @@
+valid textbook file
+3
+Introduction to Java Programming Comprehensive Version,Y. Daniel Liang,Prentice Hall,0133761312,53.99
+Intro to Pascal,Oldy Programm,PenguinPublishers,039284,45.99
+Advanced Assembly,Learner Everything,Assimblier,043589,1.99

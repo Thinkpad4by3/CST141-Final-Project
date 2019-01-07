@@ -1,0 +1,5 @@
+valid person file
+3
+Jason,Jackrel,516-867-5309,2406,Capri Place,North Bellmore,New York,11710,1234
+Dan,Sharpie,516-903-5768,6789,Main Street,Trenton,New Jersey,08601,5678
+Jiffy,Lube,789,123,4567,12,Jiffy St,LubeVille,Alaska,09009,7654

@@ -1,0 +1,5 @@
+valid course file
+3
+Intro to Java,CST112,0133761312,4
+intermediate Java,CST141,0133761312,4
+Advanced Java,CST242,0133761312,4

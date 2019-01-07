@@ -1,0 +1,14 @@
+valid student file
+3
+Jason,Jackrel,516-867-5309,2406,Capri Place,North Bellmore,New York,11710,Computer Science,124
+CST101,CST111,!
+CST112,CST141,!
+CST222,CST242,!
+Dan,Sharpie,516-903-5768,6789,Main Street,Trenton,New Jersey,08601,Computer Science,125
+CST101,MAT126,!
+CST111,!
+CST112,CST141,!
+Jiffy,Lube,789,123,4567,12,Jiffy St,LubeVille,Alaska,09009,7654,Chemistry,7890
+CHM101,!
+CHM230,!
+CHM405,!
